@@ -1,0 +1,13 @@
+#Lnews{
+    margin-left: 11rem;
+}
+
+.box {
+    border: 1px solid;
+    width: 344px;
+    height: auto;
+}
+
+.main h6,p,iframe{
+    margin: 10px;
+}

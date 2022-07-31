@@ -1,0 +1,39 @@
+#Icons {
+    padding: 15px 0;
+    margin-right: 65px;
+    box-shadow: inset 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+}
+
+#Icons .Icons-wrap {
+    margin-bottom: 30px;
+}
+
+#Icons .Icons-logo{
+    width: 166px;
+    height: 90px;
+    background-color: rgb(207, 224, 229);
+    text-align: center;
+    margin-right: 20px;
+}
+
+#Icons .Icons-logo a{
+        font-size: 18px;
+        display: inline-block;
+        background: rgb(13, 157, 201);
+        color: #fff;
+        line-height: 1;
+        padding: 8px 0;
+        margin-right: 4px;
+        margin-top: 20px;
+        border: 1px solid black;
+        border-radius: 50%;
+        text-align: center;
+        width: 40px;
+        height: 40px;
+        transition: .3s
+}
+
+#Icons .Icons-logo:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}

@@ -1,0 +1,29 @@
+    #header {
+        position: sticky;
+        max-height: 150px;
+        margin: 0px;
+        padding: 0px;
+        background-color: #fff;
+    }
+
+    #header .logo {
+        display: inline;
+    }
+
+    #header .logo img {
+        width: 100px;
+        position: fixed;
+        left: 15px;
+        top: 15px;
+    }
+
+    ul{
+        text-align: right;
+        margin-top: 15px;
+        margin-bottom: 0px;
+    }
+
+    ul> li{
+        display: inline;
+        margin-right: 15px;
+    }
